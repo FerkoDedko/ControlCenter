@@ -1,5 +1,5 @@
 COMMAND CENTER - TERMS OF USE AND PRIVACY NOTICE
-Version 1.0   (replace [FELIXKRAL] and [YOUR EMAIL] before you share this)
+Version 1.0   (replace [FELIXKRAL] and [https://github.com/FerkoDedko/ControlCenter] before you share this)
 
 1. WHAT THIS IS
 Command Center is a free tool by [FELIXKRAL] that shows how your PC is doing and lets you
@@ -35,4 +35,4 @@ Discord's own rules may restrict automated messages (for example automatic busy 
 You are responsible for following the rules of the services you use. Do not use it to spam.
 
 6. CHANGES AND CONTACT
-This notice may change in new versions. Questions: [YOUR EMAIL].
+This notice may change in new versions. Questions: [https://github.com/FerkoDedko/ControlCenter].
