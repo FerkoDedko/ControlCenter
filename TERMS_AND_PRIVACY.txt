@@ -1,0 +1,38 @@
+COMMAND CENTER - TERMS OF USE AND PRIVACY NOTICE
+Version 1.0   (replace [FELIXKRAL] and [YOUR EMAIL] before you share this)
+
+1. WHAT THIS IS
+Command Center is a free tool by [FELIXKRAL] that shows how your PC is doing and lets you
+control it with your voice. It is not made by, or connected to, Microsoft, Google, Spotify
+or Discord. Those names belong to their owners.
+
+2. USE AT YOUR OWN RISK
+The software is provided "as is", without any warranty. Some features change things on your
+PC: Cleanup deletes the files you tick, End task closes programs (unsaved work is lost),
+and Startup Manager changes what starts with Windows. The author is not responsible for
+lost data or other damage. Read what a button does before you press it.
+
+3. WHAT STAYS ON YOUR PC
+Your settings, launcher items and voice commands are stored in
+%APPDATA%\CommandCenter. Command Center has no account, no analytics and no tracking, and it
+does not upload your files, process list or hardware information anywhere.
+
+4. WHAT LEAVES YOUR PC (only when you switch the feature on)
+- Voice commands: while voice recognition is switched on, short recordings of what you say
+  are sent to Google's free speech-recognition service to be turned into text. Google's own
+  privacy policy applies to that audio. Switch "Allow voice recognition" off and nothing is
+  recorded or sent. The microphone is only used while Voice Control is listening.
+- Weather: a request to wttr.in. Like any website, it sees your IP address and uses it to
+  guess your city.
+- News: a request to the BBC News headlines feed (feeds.bbci.co.uk).
+- Opening links: Spotify, websites and other apps you launch work as they normally do.
+
+5. DISCORD
+Command Center reads the text of Discord pop-up notifications that Windows shows you, on
+your PC only. Nothing is sent to anyone. To reply, it types into your own Discord app, as
+if you did it yourself. It never sees your Discord password or token.
+Discord's own rules may restrict automated messages (for example automatic busy replies).
+You are responsible for following the rules of the services you use. Do not use it to spam.
+
+6. CHANGES AND CONTACT
+This notice may change in new versions. Questions: [YOUR EMAIL].

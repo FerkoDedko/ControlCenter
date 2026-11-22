@@ -1,0 +1,20 @@
+# Only needed for the extra features. Install what you want:
+#   py -m pip install -r requirements-optional.txt
+
+# System tray icon (Settings -> Show icon in the system tray)
+pystray>=0.19.5
+Pillow>=10.0.0
+
+# Voice Control page
+SpeechRecognition>=3.10.0
+sounddevice>=0.4.6
+
+# Discord DMs (Voice Control page): read DM pop-ups, reply, Auto-Busy. Windows only.
+# Python 3.9 - 3.13 recommended. pycaw is only used to notice that you're in a Discord call.
+winrt-runtime>=2.0.0,<4.0.0
+winrt-Windows.ApplicationModel>=2.0.0,<4.0.0
+winrt-Windows.Foundation>=2.0.0,<4.0.0
+winrt-Windows.Foundation.Collections>=2.0.0,<4.0.0
+winrt-Windows.UI.Notifications>=2.0.0,<4.0.0
+winrt-Windows.UI.Notifications.Management>=2.0.0,<4.0.0
+pycaw>=20230407
